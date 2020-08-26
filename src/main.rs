@@ -7,6 +7,6 @@ pub struct SomeStruct {
 
 fn main() {
     for _ in 0..42 {
-        println!("Hello, world!");
+        println!("Hello, cruel world!");
     }
 }
